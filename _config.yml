@@ -1,0 +1,7 @@
+timezone: Australia/Melbourne
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "post"
