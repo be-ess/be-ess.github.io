@@ -43,7 +43,7 @@ claim to be their own", according to a quote on base of that sculpture. I'd
 never heard of him previously but I know very little of poetry or of Australian
 literature. [A contemporary *Age*
 article](https://trove.nla.gov.au/newspaper/article/205496116) says that the
-sculpture of this Gordon was unveiled in 1932, and I think the sculpture the
+sculpture of this Gordon was unveiled in 1932, and I think the sculpture of the
 other Gordon was already there — "Mr. Holland, M.I.A., contrasted Gordon the
 poet with Gordon the Christian soldier, whose noble statue adorns another corner
 of this triangular reserve" (transcription my own, and possibly imperfect).
