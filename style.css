@@ -17,7 +17,7 @@ h2 {
     font-size: 1.5rem;
 }
 
-p {
+article p {
     text-align: justify;
     hyphens: auto;
 }
@@ -76,4 +76,26 @@ p a {
     &:hover {
         text-decoration: none;
     }
+}
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+
+sub {
+  top: 0.4em;
+}
+
+span.date {
+    float: right;
+}
+
+span.pithy {
+    font-style: italic;
+}
+
+hr {
+    border: 1px solid black;
 }

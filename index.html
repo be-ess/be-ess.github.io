@@ -5,6 +5,10 @@ title: B.S.
 {% for post in site.posts %}
     <a class="card" href="{{ post.url }}">
         <h2>{{ post.title }}</h2>
-        <p>{{ post.excerpt }}</p>
+        {% if post.pithy %}
+            <p>{{ post.pithy }}</p>
+        {% else %}
+            <p>{{ post.excerpt }}</p>
+        {% endif %}
     </a>
 {% endfor %}

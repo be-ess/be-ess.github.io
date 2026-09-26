@@ -1,6 +1,6 @@
 ---
 title: "Gordon Reserve"
-excerpt: "Two men, one name, and one park."
+pithy: "Two men, one name, and one park."
 ---
 
 Say that one day you decide to go and sit in the park.

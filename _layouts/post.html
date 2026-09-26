@@ -3,5 +3,14 @@ layout: default
 ---
 <article class="card">
     <h1>{{ page.title }}</h1>
+
+    {% if page.pithy %}
+        <span class="pithy">{{ page.pithy }}</span>
+    {% else %}
+        &nbsp;
+    {% endif %}
+
+    <span class="date">{{ page.date | date: "%A, %e %B %Y."}}</span>
+    <hr>
     {{ content }}
 </article>
