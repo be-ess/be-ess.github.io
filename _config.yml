@@ -5,6 +5,3 @@ defaults:
       path: ""
     values:
       layout: "post"
-
-kramdown:
-  math_engine: itex2mml
