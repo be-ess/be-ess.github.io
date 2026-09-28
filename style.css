@@ -99,3 +99,18 @@ span.pithy {
 hr {
     border: 1px solid black;
 }
+
+blockquote {
+    padding: 0.5rem 1rem;
+    border-left: 0.2rem solid black;
+    font-size: 90%;
+    background-color: #f3f3f3;
+
+    > p {
+        margin: 0;
+    }
+}
+
+div.footnotes {
+    font-size: 90%;
+}
